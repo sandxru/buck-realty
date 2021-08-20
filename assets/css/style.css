@@ -133,7 +133,7 @@ img {
 }
 
 .site-header .navbar .nav-item.active {
-  color: #6246F9;
+  color: #132e51;
 }
 
 @media (min-width: 992px) {
@@ -233,7 +233,7 @@ img {
   font-size: 1.125rem;
   font-weight: bold;
   font-family: "Poppins";
-  color: #6246F9;
+  color: #132e51;
 }
 
 .navbar .nav-modules .nav-item-social-nav:not(:last-child) {
@@ -628,7 +628,7 @@ p.has-drop-cap:not(:focus):first-letter {
 }
 
 .property-block .property-item .content-price {
-  color: #6246F9;
+  color: #132e51;
   font-size: 1.125rem;
   font-weight: bold;
   margin-bottom: 15px;
@@ -671,7 +671,7 @@ p.has-drop-cap:not(:focus):first-letter {
   font-size: 1rem;
   font-family: "Poppins";
   font-weight: bold;
-  color: #6246F9;
+  color: #132e51;
   margin-bottom: 20px;
 }
 
@@ -1632,16 +1632,16 @@ body.has-no-comments .comment-respond {
 
 .seventy-five-percent-bg {
   background-color: transparent;
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #6246F9), to(#ffffff));
-  background: -webkit-linear-gradient(top, #6246F9 100%, #ffffff 100%);
-  background: linear-gradient(180deg, #6246F9 100%, #ffffff 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #132e51), to(#ffffff));
+  background: -webkit-linear-gradient(top, #132e51 100%, #ffffff 100%);
+  background: linear-gradient(180deg, #132e51 100%, #ffffff 100%);
 }
 
 @media (min-width: 992px) {
   .seventy-five-percent-bg {
-    background: -webkit-gradient(linear, left top, right top, color-stop(70%, #6246F9), color-stop(70%, #ffffff));
-    background: -webkit-linear-gradient(left, #6246F9 70%, #ffffff 70%);
-    background: linear-gradient(90deg, #6246F9 70%, #ffffff 70%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(70%, #132e51), color-stop(70%, #ffffff));
+    background: -webkit-linear-gradient(left, #132e51 70%, #ffffff 70%);
+    background: linear-gradient(90deg, #132e51 70%, #ffffff 70%);
   }
 }
 
